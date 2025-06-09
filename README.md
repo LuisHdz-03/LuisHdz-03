@@ -34,6 +34,6 @@
 <a href="https://www.instagram.com/hernandez_luis7w7r/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://wa.me/4521650975">
+<a href="https://wa.me/524521650975">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
