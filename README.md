@@ -67,6 +67,6 @@ Mi enfoque principal es escribir código limpio, funcional y aportar valor resol
 ## <img src="https://api.iconify.design/ph:chart-bar-bold.svg?color=%23ffffff" height="28" valign="middle"/> GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuisHdz-03&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Luis" height="180px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuisHdz-03&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados por Luis" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisHdz-03&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Luis" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHdz-03&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados por Luis" height="180px"/>
 </p>
