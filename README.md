@@ -13,14 +13,14 @@
 
 <hr>
 
-## <img src="https://api.iconify.design/ph:user-bold.svg?color=%2338C2FF" height="28" valign="middle"/> Sobre Mí
+## Sobre Mí
 Soy **Ingeniero en Sistemas Computacionales** y Desarrollador Full-Stack especializado en el ecosistema **JavaScript/TypeScript**. Me apasiona construir soluciones completas: desde interfaces de usuario responsivas y aplicaciones móviles, hasta el diseño de APIs robustas y arquitecturas de bases de datos escalables. 
 
 Mi enfoque principal es escribir código limpio, funcional y aportar valor resolviendo problemas reales del negocio.
 
 ---
 
-## <img src="https://api.iconify.design/ph:lightning-bold.svg?color=%2338C2FF" height="28" valign="middle"/> Core Stack
+## Core Stack
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -28,12 +28,13 @@ Mi enfoque principal es escribir código limpio, funcional y aportar valor resol
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
 </p>
 
-## <img src="https://api.iconify.design/ph:wrench-bold.svg?color=%2338C2FF" height="28" valign="middle"/> Otras Tecnologías y Herramientas
+## Otras Tecnologías y Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -45,26 +46,26 @@ Mi enfoque principal es escribir código limpio, funcional y aportar valor resol
 
 ---
 
-## <img src="https://api.iconify.design/ph:rocket-launch-bold.svg?color=%2338C2FF" height="28" valign="middle"/> Proyectos Destacados
+## Proyectos Destacados
 
-* **Ecosistema Institucional CETIS 27 (Full-Stack):** Arquitectura completa para gestión escolar (~200 alumnos). Incluye panel web administrativo, portal de tutores y app móvil nativa con pases de lista mediante códigos QR dinámicos. *(Next.js, React Native, Node.js, Prisma, MySQL)*.
-* **Tremia (<img src="https://api.iconify.design/ph:medal-bold.svg?color=%23FFD700" height="18" valign="middle"/> 3er Lugar Innovation Fest 2025):** Plataforma web y móvil con sincronización en tiempo real e integración de IA predictiva basada en perfiles. *(React Native, Firebase, React)*.
-* **Integración IoT & Inteligencia Artificial:** Entrenamiento de un modelo propio de Machine Learning para reconocimiento facial y de audio, orquestado con Node-RED e integrado a flujos de respuesta de Amazon Alexa. *(React Native, Node-RED, Python)*.
-* **NetControl (Telemetría de Red):** Sistema de monitorización para infraestructura ISP. Frontend reactivo consumiendo microservicios asíncronos para pruebas de conectividad. *(Python, JS)*.
-
----
-
-## <img src="https://api.iconify.design/ph:certificate-bold.svg?color=%2338C2FF" height="28" valign="middle"/> Certificaciones & Formación Continua
-
-* **Jornadas Cloud: Arquitectura Serverless en AWS** — *Commit Academy (En progreso)*
-* **CCNA: Introduction to Networks** — *Cisco Networking Academy (Jul 2024)*
-* **Python Essentials 1** — *Cisco Networking Academy (Jul 2024)*
-* **Introducción a la Ciberseguridad** — *Cisco Networking Academy (Jul 2024)*
-* **Introducción a Cisco Packet Tracer** — *Cisco Networking Academy (Abr 2024)*
+- **Ecosistema Institucional CETIS 27 (Full-Stack):** Arquitectura completa para gestión escolar (~200 alumnos). Incluye panel web administrativo, portal de tutores y app móvil nativa con pases de lista mediante códigos QR dinámicos. *(Next.js, React Native, Node.js, Prisma, MySQL)*.
+- **Tremia (3er Lugar Innovation Fest 2025):** Plataforma web y móvil con sincronización en tiempo real e integración de IA predictiva basada en perfiles. *(React Native, Firebase, React)*.
+- **Integración IoT & Inteligencia Artificial:** Entrenamiento de un modelo propio de Machine Learning para reconocimiento facial y de audio, orquestado con Node-RED e integrado a flujos de respuesta de Amazon Alexa. *(React Native, Node-RED, Python)*.
+- **NetControl (Telemetría de Red):** Sistema de monitorización para infraestructura ISP. Frontend reactivo consumiendo microservicios asíncronos para pruebas de conectividad. *(Python, JS)*.
 
 ---
 
-## <img src="https://api.iconify.design/ph:chart-bar-bold.svg?color=%23ffffff" height="28" valign="middle"/> GitHub Analytics
+## Certificaciones y Formación Continua
+
+- **Fundamentos de AWS: Cloud, Serverless y Operación** — *Commit Academy (Oct 2026)*
+- **CCNA: Introduction to Networks** — *Cisco Networking Academy (Jul 2024)*
+- **Python Essentials 1** — *Cisco Networking Academy (Jul 2024)*
+- **Introducción a la Ciberseguridad** — *Cisco Networking Academy (Jul 2024)*
+- **Introducción a Cisco Packet Tracer** — *Cisco Networking Academy (Abr 2024)*
+
+---
+
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisHdz-03&theme=tokyonight" alt="Estadísticas de Luis" height="180px"/>
